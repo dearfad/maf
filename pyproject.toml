@@ -1,0 +1,10 @@
+[project]
+name = "maf"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "agent-framework-openai",
+    "agent-framework-orchestrations>=1.0.0rc2",
+]
